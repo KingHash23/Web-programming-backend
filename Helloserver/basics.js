@@ -95,6 +95,7 @@ let signupform={
     gender: "male",
     // additional properties can be added here
 }; // object
+
 console.log(signupform);
 signupform["comfrimpassword"] = "1234";
 console.log(signupform);
