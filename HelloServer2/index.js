@@ -25,3 +25,4 @@ app.get('/hello', (req, res) => {
 app.listen(port, ()=> {
     console.log(`Server is running on port ${port}`)
 })
+// Start the server
