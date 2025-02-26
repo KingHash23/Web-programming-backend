@@ -1,4 +1,5 @@
-// register.js - Handles user registration functionality
+// register.js 
+// Handles user registration functionality
 
 /**
  * Validates email format

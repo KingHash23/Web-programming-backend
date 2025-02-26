@@ -1,4 +1,5 @@
-// login.js - Handles user login functionality
+// login.js  
+// Handles user login functionality
 
 // Track login attempts
 let loginAttempts = 0;
