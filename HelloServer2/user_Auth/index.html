@@ -228,7 +228,7 @@
 
         // Initialize sample users if none exist (for demonstration purposes)
         function initializeSampleUsers() {
-            const existingUsers = localStorage.getItem('auth_users');
+            const existingUsers = localStorage.getItem('users.json');
             if (!existingUsers) {
                 const sampleUsers = {
                     "obba@gmail.com": {
@@ -248,7 +248,7 @@
                         "password": "DDee44$$"
                     }
                 };
-                localStorage.setItem('auth_users', JSON.stringify(sampleUsers));
+                localStorage.setItem('users.json', JSON.stringify(sampleUsers));
             }
         }
 
