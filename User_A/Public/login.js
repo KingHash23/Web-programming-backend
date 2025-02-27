@@ -50,7 +50,7 @@ export function setupLogin(options) {
                 messageElement.className = 'success';
                 
                 // Store user info in local storage
-                localStorage.setItem('currentUser', JSON.stringify(data.user));
+                // localStorage.setItem('currentUser', JSON.stringify(data.user));
                 
                 // Display user profile
                 displayUserProfile(data.user);

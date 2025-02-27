@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function logout() {
         // Clear user data from local storage
-        localStorage.removeItem('currentUser');
+        // localStorage.removeItem('currentUser');
         
         // Redirect to main menu
         showScreen('mainMenu');

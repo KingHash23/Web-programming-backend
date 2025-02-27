@@ -14,5 +14,9 @@
   "mark@gmail.com": {
     "name": "Mark Peter",
     "password": "$2b$10$5zqQPanmi0XhxlO5zBMYS.209IbueIuabtovJEDDmtFLy1k6sWQ3q"
+  },
+  "markx@gmail.com": {
+    "name": "markx",
+    "password": "$2b$10$65Vu1U3B3pCDS5b6tl8lheLszX5DwSyeHYpQT1kOHNcZOvWUaetcC"
   }
 }
