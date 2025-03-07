@@ -14,6 +14,8 @@ db.query(sql, (err, result) => {
     if (err) throw err;
     console.log("Table created");
 });
+
+
 // logging middleware  function
 
 function loggingMiddleware(req, res, next) {
